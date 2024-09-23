@@ -1,0 +1,30 @@
+Sep 23, 2024 6:57:55 PM Main configureLogger
+INFO: Logging configuration set up successfully.
+Sep 23, 2024 6:57:55 PM Main main
+INFO: Starting the Mars Rover Program
+Sep 23, 2024 6:57:59 PM Main main
+INFO: Grid initialized with width: 10 and height: 10
+Sep 23, 2024 6:58:01 PM Main main
+INFO: Added obstacle at (2, 2)
+Sep 23, 2024 6:58:02 PM Main main
+INFO: Added obstacle at (3, 5)
+Sep 23, 2024 6:58:06 PM Main main
+INFO: Rover initialized at (0, 0) facing NORTH
+Sep 23, 2024 6:58:08 PM Main main
+INFO: Executed command: M
+Sep 23, 2024 6:58:08 PM Main main
+INFO: Executed command: M
+Sep 23, 2024 6:58:09 PM Main main
+INFO: Executed command: R
+Sep 23, 2024 6:58:10 PM Main main
+INFO: Executed command: M
+Sep 23, 2024 6:58:11 PM Main main
+INFO: Executed command: L
+Sep 23, 2024 6:58:12 PM Main main
+INFO: Executed command: M
+Sep 23, 2024 6:58:13 PM Main main
+INFO: Exiting program as 'Q' command received
+Sep 23, 2024 6:58:13 PM Main main
+INFO: Program finished. Final position: (1, 3, NORTH)
+Sep 23, 2024 6:58:13 PM Main main
+INFO: Scanner closed. Program terminated.
